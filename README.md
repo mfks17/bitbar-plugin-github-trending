@@ -1,6 +1,6 @@
 Github Trending BitBar Plugin
 ===
-[![CI Status](https://travis-ci.org/mfks17/bitbar-plugin-AppStore.svg?branch=master)
+![CI Status](https://travis-ci.org/mfks17/bitbar-plugin-AppStore.svg?branch=master)
 
 ## Github Trending Viewer
 
@@ -14,6 +14,18 @@ This plug-in displays the daily trending of your favorite language from Github.
 
 - ruby(1.9.3+)
 - [nokogiri](https://github.com/sparklemotion/nokogiri)
+
+# Installation
+
+- Download ```github-trending.1h.rb``` file or Clone it.
+- Put ```github-trending.1h.rb``` in your bitbar plugin directory.
+
+# Usage
+
+- Open ```github-trending.1h.rb``` file.
+- Set your favorite language.
+
+```LANG = 'swift'.freeze # your favorite language```
 
 ## License
 
