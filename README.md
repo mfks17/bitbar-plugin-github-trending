@@ -8,7 +8,7 @@ This plug-in displays the daily trending of your favorite language from Github.
 
 ## Features
 
-<img src="/Users/mfks17/src/github.com/mfks17/bitbar-plugin-github-trending/Screenshots/02.gif" width="320px" />
+<img src="https://raw.githubusercontent.com/mfks17/bitbar-plugin-github-trending/master/Screenshots/02.gif" width="320px" />
 
 ## Requirements
 
