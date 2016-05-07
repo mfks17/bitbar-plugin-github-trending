@@ -1,6 +1,6 @@
 Github Trending BitBar Plugin
 ===
-[![CI Status](http://img.shields.io/travis/mfks17/bitbar-plugin-github-trending.svg?style=flat)](https://travis-ci.org/mfks17/bitbar-plugin-github-trending)
+[![CI Status](https://travis-ci.org/mfks17/bitbar-plugin-AppStore.svg?branch=master)
 
 ## Github Trending Viewer
 
