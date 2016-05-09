@@ -29,4 +29,6 @@ This plug-in displays the daily trending of your favorite language from Github.
 
 ## License
 
-```Github Trending Bitbar Plugin``` is available under the MIT license. See the [LICENSE](https://github.com/mfks17/bitbar-plugin-github-trending/blob/master/LICENSE) file for more info.
+```Github Trending Bitbar Plugin``` is available under the MIT license. 
+
+See the [LICENSE](https://github.com/mfks17/bitbar-plugin-github-trending/blob/master/LICENSE) file for more info.
