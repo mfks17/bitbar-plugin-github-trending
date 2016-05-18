@@ -27,6 +27,10 @@ This plug-in displays the daily trending of your favorite language from Github.
 
 ```LANG = 'swift'.freeze # your favorite language```
 
+# Todo
+
+- test
+
 ## License
 
 ```Github Trending Bitbar Plugin``` is available under the MIT license. 
